@@ -24,7 +24,7 @@ body {
   font-size: small;
   text-align: center;
   overflow:auto;
-  background:url("res/home-background.jpg") no-repeat center center fixed;
+  background:url("../res/home-background.jpg") no-repeat center center fixed;
   /*background-size: 100% auto;*/
        background-size: 100% 100%;
 
